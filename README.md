@@ -1,5 +1,5 @@
 # 💫 About Me:
-#<h6>Tech Analyst, Data Analyst, System Engineer and Machine Learning/AI Engineer<h6>
+# Tech Analyst, Data Analyst, System Engineer and Machine Learning/AI Engineer
 
 
 # 💻 Tech Stack:
